@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/saurav1993/nodeMongoRESTapi/issues"
   },
-  "homepage": "https://github.com/saurav1993/nodeMongoRESTapi#readme"
+  "homepage": "https://github.com/saurav1993/nodeMongoRESTapi#readme",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
 }
